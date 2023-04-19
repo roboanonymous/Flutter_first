@@ -16,4 +16,6 @@ class StyleText extends StatelessWidget{
             )
             );
   }
+
+  
 }
